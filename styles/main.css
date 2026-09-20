@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background-color: white;
+}
+
+header {
+    margin-bottom: 25px;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+main {
+    max-width: 600px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+label {
+    display: inline-block;
+    width: 150px;
+}
+
+input,
+select {
+    padding: 5px;
+}
+
+.required {
+    border: 2px solid yellow;
+}
+
+.invalid-email {
+    border: 2px solid red;
+}
+
+#missing-count {
+    display: block;
+    margin-top: 20px;
+    font-weight: bold;
+}
