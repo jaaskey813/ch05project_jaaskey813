@@ -1,4 +1,8 @@
 /*
+    Name: Johnathon Askey
+    Date: September 20, 2026
+*/
+/*
 <p>This function checks all of the required fields and counts how many fields are empty.</p>
 */
 function checkMissing() {
